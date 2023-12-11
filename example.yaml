@@ -1,0 +1,8 @@
+collection: example
+generateWACZ: true
+screencastPort: 9037
+logging: stats,pywb,behaviors,debug
+behaviors: siteSpecific
+seeds:
+  - url: https://www.stl-tsl.org/
+    scopeType: page
