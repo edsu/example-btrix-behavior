@@ -1,4 +1,4 @@
-export class ExampleBehavior {
+class ExampleBehavior {
   static id = 'ExampleBehavior';
 
   static init() {
